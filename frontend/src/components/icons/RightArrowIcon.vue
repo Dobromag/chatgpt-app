@@ -1,0 +1,32 @@
+<template>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 128 128"
+    width="20"
+    height="20"
+    fill="none"
+  >
+    <g>
+      <line
+        x1="40.5"
+        y1="17"
+        x2="87.5"
+        y2="64"
+        stroke="#ffffff"
+        stroke-width="12"
+        stroke-linecap="square"
+        stroke-miterlimit="10"
+      />
+      <line
+        x1="87.5"
+        y1="64"
+        x2="40.5"
+        y2="111"
+        stroke="#ffffff"
+        stroke-width="12"
+        stroke-linecap="square"
+        stroke-miterlimit="10"
+      />
+    </g>
+  </svg>
+</template>
